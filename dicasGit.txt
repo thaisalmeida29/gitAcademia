@@ -1,0 +1,19 @@
+1) criar projeto no Github 
+
+2) clonar o projeto na sua estação de trabalho (primeira vez)
+
+3) começar o projeto de programação na estação de trabalho
+
+
+Comandos básicofa-spin
+1) clonagem do repositorio a primeira vez
+git clone (endereco)
+
+2) enviando codigos construidos na estação de trabalho
+git .add 
+git commit -m "mensagem para a equipe"
+git push
+
+3) buscando codigos do servidor para a estação de trabalho
+
+git pull
